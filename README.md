@@ -1,7 +1,7 @@
 # Payloads
 > Blue Cosmo 
 
-A repository containing my payloads for easy finding :)
+A repository containing my payloads for easy finding
 
 ## Hak5 Payload Libraries
 - [Payloads.Hak5](https://payloads.hak5.org)
